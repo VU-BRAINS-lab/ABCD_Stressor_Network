@@ -8,7 +8,7 @@ This project utilizes data from the ABCD Study Dataset
 
 **Approach**
 
-This study used hierarchical modeling of environmental stressors established in [Jeong et al. 2023](https://www.sciencedirect.com/science/article/pii/S2667174322000593). Graph theory was used to establish functional topology metrics. 
+This study used hierarchical modeling of environmental stressors established in [Jeong et al. 2023](https://www.sciencedirect.com/science/article/pii/S2667174322000593). Please refer to [Jeong_Environmental_Bifactor](https://github.com/VU-BRAINS-lab/Jeong_Environmental_Bifactor) for the detailed documentation of hierarchical modeling of environmental stressors. Graph theory was used to establish functional topology metrics. 
 
 **Contact information**
 
